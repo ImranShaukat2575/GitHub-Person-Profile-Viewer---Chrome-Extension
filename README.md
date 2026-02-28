@@ -99,16 +99,7 @@ chrome://extensions
 * Enter any GitHub username
 * Click **View**
 * 🎉 Profile appears instantly
-
----
-
-## 💡 Example Usernames to Try
-
-* `torvalds`
-* `gaearon`
-* `yyx990803`
-* `octocat`
-
+* 
 ---
 
 ## 🛠 Tech Stack
@@ -139,4 +130,4 @@ Perfect for:
 
 ---
 
-If you want the **PRO version** later (repo list, stars, pinned repos, history, etc.), you can extend this extension easily.
+

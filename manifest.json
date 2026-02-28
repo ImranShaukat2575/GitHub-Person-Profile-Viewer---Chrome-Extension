@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "GitHub Profile Viewer",
+  "version": "1.0.0",
+  "description": "View a GitHub person's profile quickly from Chrome.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "GitHub Profile Viewer"
+  },
+  "host_permissions": [
+    "https://api.github.com/*"
+  ]
+}
